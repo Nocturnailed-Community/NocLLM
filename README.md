@@ -4,6 +4,10 @@
 
 ---
 
+[![Indonesian](https://img.shields.io/badge/Language-Indonesian-blue)](README_id.md)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-NocLLM-black?logo=github)](https://github.com/Nocturnailed-Community/NocLLM)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20094318.svg)](https://doi.org/10.5281/zenodo.20094318)
+
 NocLLM is a highly lightweight, asynchronous C++ library designed for ESP32 and ESP8266 to easily interact with Large Language Models (LLMs) from both Cloud (OpenAI, Gemini, Groq, Sumopod) and Local APIs (LM Studio, Ollama). 
 
 **Creator:** Muhammad Ikhwan Fathulloh / Nocturnailed Community  
