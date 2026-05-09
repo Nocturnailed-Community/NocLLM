@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Fathulloh"
+    given-names: "Muhammad Ikhwan Fathulloh"
+    orcid: "https://orcid.org/0009-0009-6834-8883"
+title: "NocLLM: Provider-Agnostic LLM Connector for Resource-Constrained Microcontrollers"
+version: 1.0.1
+doi: 10.5281/zenodo.20094318
+date-released: 2026-05-09
+url: "https://github.com/Nocturnailed-Community/NocLLM"
